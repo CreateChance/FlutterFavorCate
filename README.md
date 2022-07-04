@@ -2,6 +2,8 @@
 
 Food application, Only for learning flutter
 
+Support ALL platforms: android、ios、linux、macos、web、windows.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
