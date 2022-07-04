@@ -33,6 +33,7 @@ class WidgetMealItem extends StatelessWidget {
                 ),
                 // title
                 Positioned(
+                  left: 10.rpx,
                   right: 10.rpx,
                   bottom: 10.rpx,
                   child: Container(
